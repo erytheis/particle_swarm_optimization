@@ -1,2 +1,2 @@
-# particle_swarm_optimization
+# Particle swarm optimization
 Basic PSO algorithm.
